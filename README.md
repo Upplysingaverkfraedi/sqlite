@@ -56,7 +56,7 @@ inniheldur ýmis gögn um bókabálkinn _Söga Ísfólksins_ eftir norska rithö
 sem tröllreið íslenskt samfélag á 9. áratug 20. aldar.
 
 1. Til að átta ykkur á grunninum, útbúið skipanaskrá sem sýnir hvernig gagnagrunninn er
-   uppbyggður. Skilið henni sem `create_isfolkid.sql`.
+   uppbyggður (ekki hafa gögnin sjálf með). Skilið henni sem `create_isfolkid.sql`.
 2. Skilið skipanaskrá `isfolkid.sql` sem svarar eftirfarandi spurningum:
     - Hversu margar aðalpersónur eru í bókabálkinum?
     - Hversu margar persónur eru í hverri bók?
