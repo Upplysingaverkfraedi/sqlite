@@ -25,8 +25,8 @@
 
 Verkefnið felur í sér að sameina tíðnigögn úr tveimur CSV skrám,
 
-- [first_names_freq.csv](first_names_freq.csv)
-- [middle_names_freq.csv](middle_names_freq.csv)
+- [first_names_freq.csv](data/first_names_freq.csv)
+- [middle_names_freq.csv](data/middle_names_freq.csv)
 
 í SQLite gagnagrunn [names_freq.db](data/names_freq.db).
 Nemendur munu búa til eina töflu í gagnagrunninum til að geyma og vinna úr þessum gögnum.
